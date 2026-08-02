@@ -1,0 +1,17 @@
+C:\Users\USER\FoodHubPro\FoodHubPro.Infrastructure\bin\Debug\net9.0\FoodHubPro.Infrastructure.deps.json
+C:\Users\USER\FoodHubPro\FoodHubPro.Infrastructure\bin\Debug\net9.0\FoodHubPro.Infrastructure.dll
+C:\Users\USER\FoodHubPro\FoodHubPro.Infrastructure\bin\Debug\net9.0\FoodHubPro.Infrastructure.pdb
+C:\Users\USER\FoodHubPro\FoodHubPro.Infrastructure\bin\Debug\net9.0\FoodHubPro.Application.dll
+C:\Users\USER\FoodHubPro\FoodHubPro.Infrastructure\bin\Debug\net9.0\FoodHubPro.Domain.dll
+C:\Users\USER\FoodHubPro\FoodHubPro.Infrastructure\bin\Debug\net9.0\FoodHubPro.Domain.pdb
+C:\Users\USER\FoodHubPro\FoodHubPro.Infrastructure\bin\Debug\net9.0\FoodHubPro.Application.pdb
+C:\Users\USER\FoodHubPro\FoodHubPro.Infrastructure\obj\Debug\net9.0\FoodHubPro.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\USER\FoodHubPro\FoodHubPro.Infrastructure\obj\Debug\net9.0\FoodHubPro.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\FoodHubPro\FoodHubPro.Infrastructure\obj\Debug\net9.0\FoodHubPro.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\USER\FoodHubPro\FoodHubPro.Infrastructure\obj\Debug\net9.0\FoodHubPro.Infrastructure.AssemblyInfo.cs
+C:\Users\USER\FoodHubPro\FoodHubPro.Infrastructure\obj\Debug\net9.0\FoodHubPro.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\USER\FoodHubPro\FoodHubPro.Infrastructure\obj\Debug\net9.0\FoodHubP.EE16F230.Up2Date
+C:\Users\USER\FoodHubPro\FoodHubPro.Infrastructure\obj\Debug\net9.0\FoodHubPro.Infrastructure.dll
+C:\Users\USER\FoodHubPro\FoodHubPro.Infrastructure\obj\Debug\net9.0\refint\FoodHubPro.Infrastructure.dll
+C:\Users\USER\FoodHubPro\FoodHubPro.Infrastructure\obj\Debug\net9.0\FoodHubPro.Infrastructure.pdb
+C:\Users\USER\FoodHubPro\FoodHubPro.Infrastructure\obj\Debug\net9.0\ref\FoodHubPro.Infrastructure.dll

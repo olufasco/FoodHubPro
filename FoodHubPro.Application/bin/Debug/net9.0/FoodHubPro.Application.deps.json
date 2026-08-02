@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "FoodHubPro.Application/1.0.0": {
+        "dependencies": {
+          "FoodHubPro.Domain": "1.0.0"
+        },
+        "runtime": {
+          "FoodHubPro.Application.dll": {}
+        }
+      },
+      "FoodHubPro.Domain/1.0.0": {
+        "runtime": {
+          "FoodHubPro.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FoodHubPro.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FoodHubPro.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

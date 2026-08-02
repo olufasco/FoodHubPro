@@ -1,0 +1,11 @@
+C:\Users\USER\FoodHubPro\FoodHubPro.Domain\bin\Debug\net9.0\FoodHubPro.Domain.deps.json
+C:\Users\USER\FoodHubPro\FoodHubPro.Domain\bin\Debug\net9.0\FoodHubPro.Domain.dll
+C:\Users\USER\FoodHubPro\FoodHubPro.Domain\bin\Debug\net9.0\FoodHubPro.Domain.pdb
+C:\Users\USER\FoodHubPro\FoodHubPro.Domain\obj\Debug\net9.0\FoodHubPro.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\FoodHubPro\FoodHubPro.Domain\obj\Debug\net9.0\FoodHubPro.Domain.AssemblyInfoInputs.cache
+C:\Users\USER\FoodHubPro\FoodHubPro.Domain\obj\Debug\net9.0\FoodHubPro.Domain.AssemblyInfo.cs
+C:\Users\USER\FoodHubPro\FoodHubPro.Domain\obj\Debug\net9.0\FoodHubPro.Domain.csproj.CoreCompileInputs.cache
+C:\Users\USER\FoodHubPro\FoodHubPro.Domain\obj\Debug\net9.0\FoodHubPro.Domain.dll
+C:\Users\USER\FoodHubPro\FoodHubPro.Domain\obj\Debug\net9.0\refint\FoodHubPro.Domain.dll
+C:\Users\USER\FoodHubPro\FoodHubPro.Domain\obj\Debug\net9.0\FoodHubPro.Domain.pdb
+C:\Users\USER\FoodHubPro\FoodHubPro.Domain\obj\Debug\net9.0\ref\FoodHubPro.Domain.dll

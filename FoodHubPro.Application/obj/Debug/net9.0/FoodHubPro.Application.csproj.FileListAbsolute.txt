@@ -1,0 +1,15 @@
+C:\Users\USER\FoodHubPro\FoodHubPro.Application\bin\Debug\net9.0\FoodHubPro.Application.deps.json
+C:\Users\USER\FoodHubPro\FoodHubPro.Application\bin\Debug\net9.0\FoodHubPro.Application.dll
+C:\Users\USER\FoodHubPro\FoodHubPro.Application\bin\Debug\net9.0\FoodHubPro.Application.pdb
+C:\Users\USER\FoodHubPro\FoodHubPro.Application\bin\Debug\net9.0\FoodHubPro.Domain.dll
+C:\Users\USER\FoodHubPro\FoodHubPro.Application\bin\Debug\net9.0\FoodHubPro.Domain.pdb
+C:\Users\USER\FoodHubPro\FoodHubPro.Application\obj\Debug\net9.0\FoodHubPro.Application.csproj.AssemblyReference.cache
+C:\Users\USER\FoodHubPro\FoodHubPro.Application\obj\Debug\net9.0\FoodHubPro.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\FoodHubPro\FoodHubPro.Application\obj\Debug\net9.0\FoodHubPro.Application.AssemblyInfoInputs.cache
+C:\Users\USER\FoodHubPro\FoodHubPro.Application\obj\Debug\net9.0\FoodHubPro.Application.AssemblyInfo.cs
+C:\Users\USER\FoodHubPro\FoodHubPro.Application\obj\Debug\net9.0\FoodHubPro.Application.csproj.CoreCompileInputs.cache
+C:\Users\USER\FoodHubPro\FoodHubPro.Application\obj\Debug\net9.0\FoodHubP.582EF331.Up2Date
+C:\Users\USER\FoodHubPro\FoodHubPro.Application\obj\Debug\net9.0\FoodHubPro.Application.dll
+C:\Users\USER\FoodHubPro\FoodHubPro.Application\obj\Debug\net9.0\refint\FoodHubPro.Application.dll
+C:\Users\USER\FoodHubPro\FoodHubPro.Application\obj\Debug\net9.0\FoodHubPro.Application.pdb
+C:\Users\USER\FoodHubPro\FoodHubPro.Application\obj\Debug\net9.0\ref\FoodHubPro.Application.dll

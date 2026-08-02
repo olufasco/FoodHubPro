@@ -13,3 +13,4 @@ C:\Users\USER\FoodHubPro\FoodHubPro.Application\obj\Debug\net9.0\FoodHubPro.Appl
 C:\Users\USER\FoodHubPro\FoodHubPro.Application\obj\Debug\net9.0\refint\FoodHubPro.Application.dll
 C:\Users\USER\FoodHubPro\FoodHubPro.Application\obj\Debug\net9.0\FoodHubPro.Application.pdb
 C:\Users\USER\FoodHubPro\FoodHubPro.Application\obj\Debug\net9.0\ref\FoodHubPro.Application.dll
+C:\Users\USER\FoodHubPro\FoodHubPro.Application\obj\Debug\net9.0\FoodHubPro.Application.sourcelink.json

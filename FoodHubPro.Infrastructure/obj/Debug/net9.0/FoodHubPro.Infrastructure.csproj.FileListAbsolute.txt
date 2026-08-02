@@ -15,3 +15,6 @@ C:\Users\USER\FoodHubPro\FoodHubPro.Infrastructure\obj\Debug\net9.0\FoodHubPro.I
 C:\Users\USER\FoodHubPro\FoodHubPro.Infrastructure\obj\Debug\net9.0\refint\FoodHubPro.Infrastructure.dll
 C:\Users\USER\FoodHubPro\FoodHubPro.Infrastructure\obj\Debug\net9.0\FoodHubPro.Infrastructure.pdb
 C:\Users\USER\FoodHubPro\FoodHubPro.Infrastructure\obj\Debug\net9.0\ref\FoodHubPro.Infrastructure.dll
+C:\Users\USER\FoodHubPro\FoodHubPro.Infrastructure\obj\Debug\net9.0\FoodHubPro.Infrastructure.sourcelink.json
+C:\Users\USER\FoodHubPro\FoodHubPro.Infrastructure\bin\Debug\net9.0\FoodHubPro.Infrastructure.runtimeconfig.json
+C:\Users\USER\FoodHubPro\FoodHubPro.Infrastructure\obj\Debug\net9.0\FoodHubPro.Infrastructure.genruntimeconfig.cache

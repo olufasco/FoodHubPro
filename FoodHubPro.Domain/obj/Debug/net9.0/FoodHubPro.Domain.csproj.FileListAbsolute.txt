@@ -10,3 +10,4 @@ C:\Users\USER\FoodHubPro\FoodHubPro.Domain\obj\Debug\net9.0\refint\FoodHubPro.Do
 C:\Users\USER\FoodHubPro\FoodHubPro.Domain\obj\Debug\net9.0\FoodHubPro.Domain.pdb
 C:\Users\USER\FoodHubPro\FoodHubPro.Domain\obj\Debug\net9.0\ref\FoodHubPro.Domain.dll
 C:\Users\USER\FoodHubPro\FoodHubPro.Domain\obj\Debug\net9.0\FoodHubPro.Domain.sourcelink.json
+C:\Users\USER\FoodHubPro\FoodHubPro.Domain\obj\Debug\net9.0\FoodHubPro.Domain.csproj.AssemblyReference.cache

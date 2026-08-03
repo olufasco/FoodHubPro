@@ -1,30 +1,21 @@
 ﻿using FoodHubPro.Domain.Entities;
-using FoodHubPro.Infrastructure.Identity;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace FoodHubPro.Infrastructure.Data;
-
-public class FoodHubDbContext : IdentityDbContext<ApplicationUserIdentity, IdentityRole<Guid>, Guid>
+public class FoodHubDbContext
+    : IdentityDbContext<ApplicationUser, IdentityRole<Guid>, Guid>
 {
-    public FoodHubDbContext(
-        DbContextOptions<FoodHubDbContext> options) : base(options)
-    {
-    }
+    public FoodHubDbContext(DbContextOptions<FoodHubDbContext> options) : base(options) { }
 
     public DbSet<Vendor> Vendors => Set<Vendor>();
-
     public DbSet<RefreshToken> RefreshTokens => Set<RefreshToken>();
 
     protected override void OnModelCreating(ModelBuilder builder)
     {
         base.OnModelCreating(builder);
 
-        builder.Entity<Vendor>()
-            .HasKey(x => x.Id);
-
-        builder.Entity<RefreshToken>()
-            .HasKey(x => x.Id);
+        builder.Entity<Vendor>().HasKey(x => x.Id);
+        builder.Entity<RefreshToken>().HasKey(x => x.Id);
     }
 }

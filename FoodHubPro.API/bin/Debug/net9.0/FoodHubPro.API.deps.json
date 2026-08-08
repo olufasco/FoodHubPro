@@ -1502,7 +1502,6 @@
           "FoodHubPro.Domain": "1.0.0",
           "Microsoft.AspNetCore.Identity": "2.3.11",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "9.0.0",
-          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.0",
           "Pomelo.EntityFrameworkCore.MySql": "9.0.0"
         },
         "runtime": {

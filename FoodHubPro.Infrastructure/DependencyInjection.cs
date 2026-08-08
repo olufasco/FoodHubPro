@@ -2,7 +2,6 @@
 using FoodHubPro.Domain.Entities;
 using FoodHubPro.Infrastructure.Repositories;
 using Microsoft.AspNetCore.Identity;
-using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -18,9 +17,13 @@ public static class DependencyInjection
         services.AddScoped<SignInManager<ApplicationUser>>();
         services.AddScoped<IRefreshTokenRepository, RefreshTokenRepository>();
 
-        // Register DbContext
+        // Register DbContext using MySQL
         services.AddDbContext<FoodHubDbContext>(options =>
-            options.UseSqlServer(configuration.GetConnectionString("DefaultConnection")));
+        {
+            var cs = configuration.GetConnectionString("DefaultConnection");
+
+            options.UseMySql(cs, new MySqlServerVersion(new Version(11, 8, 0)));
+        });
 
         // Register Identity
         services.AddIdentityCore<ApplicationUser>(options =>
@@ -30,12 +33,10 @@ public static class DependencyInjection
             options.Password.RequireNonAlphanumeric = false;
             options.Password.RequireUppercase = true;
         })
-.AddRoles<IdentityRole<Guid>>() // adds role support
-.AddEntityFrameworkStores<FoodHubDbContext>()
-.AddSignInManager<SignInManager<ApplicationUser>>() // adds sign-in manager
-.AddDefaultTokenProviders();
-
-
+        .AddRoles<IdentityRole<Guid>>() // adds role support
+        .AddEntityFrameworkStores<FoodHubDbContext>()
+        .AddSignInManager<SignInManager<ApplicationUser>>() // adds sign-in manager
+        .AddDefaultTokenProviders();
 
         return services;
     }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FoodHubPro.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3568a048c6522a8ee0618f8e4fd5439ea086ace9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b238e1373cf31c97560a83785d112407cf63fe2")]
 [assembly: System.Reflection.AssemblyProductAttribute("FoodHubPro.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FoodHubPro.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

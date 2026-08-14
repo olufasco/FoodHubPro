@@ -73,7 +73,7 @@ public class LoginCommandHandler : IRequestHandler<LoginCommand, AuthResponse>
         var token = tokenHandler.CreateToken(tokenDescriptor);
         var jwt = tokenHandler.WriteToken(token);
 
-        // ✅ Generate and save refresh token
+        // Generate and save refresh token
         var refreshToken = new RefreshToken
         {
             Id = Guid.NewGuid(),

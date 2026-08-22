@@ -20,8 +20,7 @@ public class FoodHubDbContextFactory : IDesignTimeDbContextFactory<FoodHubDbCont
 
         var optionsBuilder = new DbContextOptionsBuilder<FoodHubDbContext>();
         optionsBuilder.UseMySql(
-            cs,
-            new MySqlServerVersion(new Version(11, 8, 0))
+            cs, new MySqlServerVersion(new Version(11, 8, 0))
         );
 
         return new FoodHubDbContext(optionsBuilder.Options);
